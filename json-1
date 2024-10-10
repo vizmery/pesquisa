@@ -1,22 +1,12 @@
 {
-  "titulo": "Pesquisa de Super-Heróis Favoritos",
-  "herois": [
-    {
-      "nome": "Superman",
-      "votos": 25
-    },
-    {
-      "nome": "Mulher-Maravilha",
-      "votos": 18
-    },
-    {
-      "nome": "Homem-Aranha",
-      "votos": 30
-    },
-    {
-      "nome": "Batman",
-      "votos": 27
-    }
-  ],
-  "total_votos": 100
+  "Superman": 25,
+  "Mulher-Maravilha": 18,
+  "Homem-Aranha": 30,
+  "Batman": 27,
+  "Flash": 15,
+  "Thor": 22,
+  "Hulk": 19,
+  "Wolverine": 16,
+  "Aquaman": 10,
+  "Deadpool": 24
 }
