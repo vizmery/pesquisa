@@ -1,0 +1,22 @@
+{
+  "titulo": "Pesquisa de Super-Heróis Favoritos",
+  "herois": [
+    {
+      "nome": "Superman",
+      "votos": 25
+    },
+    {
+      "nome": "Mulher-Maravilha",
+      "votos": 18
+    },
+    {
+      "nome": "Homem-Aranha",
+      "votos": 30
+    },
+    {
+      "nome": "Batman",
+      "votos": 27
+    }
+  ],
+  "total_votos": 100
+}
